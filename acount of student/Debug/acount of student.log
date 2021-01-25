@@ -1,0 +1,2 @@
+﻿  Source.cpp
+C:\Users\Microsoft\source\repos\acount of student\acount of student\Source.cpp(105,2): error C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
