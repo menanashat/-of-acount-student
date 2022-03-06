@@ -1,2 +1,2 @@
-# -of-acount-student
+# acount-student
 made by c++ and oop
